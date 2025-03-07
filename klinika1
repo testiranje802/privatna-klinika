@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privatna Klinika</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #27ae60;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Privatna Klinika
+    </header>
+    <div class="container">
+        <h1>Dobrodošli u našu privatnu kliniku</h1>
+        <p>Pružamo vrhunsku medicinsku uslugu sa najmodernijom opremom.</p>
+        <a href="#" class="button">Kontaktirajte nas</a>
+    </div>
+</body>
+</html>
